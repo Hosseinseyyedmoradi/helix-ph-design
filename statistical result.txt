@@ -1,0 +1,15 @@
+Number of fasta sequence: 373060
+Mean Length: 46.824017584302794
+Median Length: 22.0
+Mode Length: 12
+
+Summary Statistics:
+              Length
+count  373060.000000
+mean       46.824018
+std        84.489567
+min         1.000000
+25%        13.000000
+50%        22.000000
+75%        45.000000
+max      5530.000000
